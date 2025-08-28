@@ -9,9 +9,6 @@ Es un pequeño proyecto creado como parte de mi portfolio para practicar html, c
 
 ---
 
+CLONAR REPOSITORIO
 
-📂 Cómo usar
-
-1. Cloná el repositorio:
-   ```bash
    git clone https://github.com/Gabrielamorinigo/Calculadora-.git
